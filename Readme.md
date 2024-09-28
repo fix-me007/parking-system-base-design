@@ -10,6 +10,6 @@ Sub color
 #B3B4AD
 #EBCFCD
 
--
+---
 
 ![App Screenshot](https://raw.githubusercontent.com/fix-me007/parking-system-base-design/refs/heads/main/Color_Guide.jpg)
